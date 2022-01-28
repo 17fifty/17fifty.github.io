@@ -1,0 +1,32 @@
+		<div class="row">
+			<div class="column">
+				<a href="https://rosetorte.github.io/capital/capital" style="color:black">
+				<img src="images/capybara2.png">
+				<figcaption>December 30 2021: Capital Vol 1</figcaption>
+			</div>
+			<div class="column">
+				<a href="https://rosetorte.github.io/subordination" style="color:black">
+				<img src="images/kafka.jpg">
+				<figcaption>December 24 2021: Subordination to Ideals</figcaption>
+				</a>
+			</div>
+			<div class="column">
+				<a href="https://rosetorte.github.io/civ" style="color:black">
+				<img src="images/freud.jpg">
+				<figcaption>Semptember 4 2021: Civilization and its Discontents by Freud</figcaption>
+				</a>
+			</div>
+			<div class="column">
+				<a href="https://rosetorte.github.io/conscience" style="color:black">
+				<img src="images/subordination.jpg">
+				<figcaption>September 2 2021: Medium of Judgement as Conscience</figcaption>
+				</a>
+				</div>
+				<div class="column">
+					<a href="https://rosetorte.github.io/ideals" style="color:black">
+						<img src="images/ideals.jpg">
+						<figcaption>June 8 2021: Ideals and Repression</figcaption>
+					</a>
+					</div>
+		</div> 
+

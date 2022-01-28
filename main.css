@@ -1,6 +1,14 @@
+html {
+  zoom:120%;
+}
+
 .div1{
 	text-align:center;
   margin: auto;
+}
+p {
+  margin-right:10%;
+  margin-left:10%;
 }
 
 body {
